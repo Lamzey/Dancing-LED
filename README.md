@@ -9,4 +9,6 @@ You can connect the LEDs to pins 2 through 8 on the Arduino and observe the ligh
 
 
 
-<img width="726" alt="Dancing LED" src="https://github.com/user-attachments/assets/8d67a752-2dbc-4fa3-a2e7-bfb4a2643b79" />
+
+![image](https://github.com/user-attachments/assets/51368788-d3bc-4d5a-84ee-2d58ba1a9a74)
+
